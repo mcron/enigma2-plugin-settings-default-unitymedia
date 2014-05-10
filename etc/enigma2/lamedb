@@ -1,0 +1,1707 @@
+eDVB services /4/
+transponders
+ffff0000:0097:270f
+	c 466000:6900000:2:5:0:d
+/
+ffff0000:0004:0085
+	c 378000:6900000:2:5:0:d
+/
+ffff0000:0001:0085
+	c 386000:6900000:2:5:0:d
+/
+ffff0000:0003:0085
+	c 362000:6900000:2:5:0:d
+/
+ffff0000:008d:270f
+	c 458000:6900000:2:5:0:d
+/
+ffff0000:0105:270f
+	c 562000:6900000:2:5:0:d
+/
+ffff0000:00c9:270f
+	c 538000:6900000:2:5:0:d
+/
+ffff0000:0002:0085
+	c 370000:6900000:2:5:0:d
+/
+ffff0000:015f:270f
+	c 129000:6900000:2:5:0:d
+/
+ffff0000:00b5:270f
+	c 530000:6900000:2:5:0:d
+/
+ffff0000:00f1:270f
+	c 554000:6900000:2:5:0:d
+/
+ffff0000:0083:270f
+	c 346000:6900000:2:5:0:d
+/
+ffff0000:017d:0000
+	c 746000:6900000:2:3:0:d
+/
+ffff0000:00ab:270f
+	c 522000:6900000:2:5:0:d
+/
+ffff0000:0431:a401
+	c 426000:6900000:2:5:0:d
+/
+ffff0000:041b:a401
+	c 418000:6900000:2:5:0:d
+/
+ffff0000:00e7:270f
+	c 434000:6900000:2:5:0:d
+/
+ffff0000:00a1:270f
+	c 442000:6900000:2:5:0:d
+/
+ffff0000:010f:270f
+	c 570000:6900000:2:5:0:d
+/
+ffff0000:00bf:270f
+	c 450000:6900000:2:5:0:d
+/
+ffff0000:00fb:270f
+	c 610000:6900000:2:3:0:d
+/
+ffff0000:00dd:270f
+	c 402000:6900000:2:5:0:d
+/
+ffff0000:0437:0066
+	c 394000:6900000:2:5:0:d
+/
+ffff0000:01cd:270f
+	c 810000:6900000:2:3:0:d
+/
+ffff0000:00d3:270f
+	c 546000:6900000:2:5:0:d
+/
+ffff0000:006f:270f
+	c 121000:6900000:2:5:0:d
+/
+ffff0000:01d7:270f
+	c 818000:6900000:2:3:0:d
+/
+ffff0000:044d:a401
+	c 410000:6900000:2:5:0:d
+/
+ffff0000:0006:0085
+	c 354000:6900000:2:5:0:d
+/
+ffff0000:000d:0085
+	c 698000:6900000:2:5:0:d
+/
+ffff0000:0187:270f
+	c 754000:6900000:2:3:0:d
+/
+ffff0000:01c3:270f
+	c 802000:6900000:2:3:0:d
+/
+ffff0000:019b:270f
+	c 770000:6900000:2:3:0:d
+/
+ffff0000:01b9:270f
+	c 794000:6900000:2:3:0:d
+/
+ffff0000:000c:0085
+	c 706000:6900000:2:5:0:d
+/
+ffff0000:0191:270f
+	c 762000:6900000:2:3:0:d
+/
+ffff0000:01af:270f
+	c 786000:6900000:2:3:0:d
+/
+ffff0000:014b:270f
+	c 690000:6900000:2:5:0:d
+/
+ffff0000:0141:270f
+	c 682000:6900000:2:5:0:d
+/
+ffff0000:01a5:270f
+	c 778000:6900000:2:3:0:d
+/
+ffff0000:0079:270f
+	c 113000:6900000:2:3:0:d
+/
+end
+services
+3b00:ffff0000:0097:270f:1:0
+BonGusto (tv.Gusto Premium)
+p:UMKBW
+3b02:ffff0000:0097:270f:1:0
+Fashion TV
+p:UMKBW
+3b03:ffff0000:0097:270f:1:0
+E! Entertainment
+p:UMKBW
+3b05:ffff0000:0097:270f:1:0
+PENTHOUSE
+p:UMKBW
+3b06:ffff0000:0097:270f:1:0
+Bibel TV
+p:UMKBW
+3b07:ffff0000:0097:270f:1:0
+Cartoon Network
+p:UMKBW
+3b08:ffff0000:0097:270f:1:0
+VH1 Classic
+p:UMKBW
+3b0c:ffff0000:0097:270f:1:0
+Sport1+
+p:UMKBW
+69eb:ffff0000:0097:270f:1:0
+k-tv
+p:UMKBW
+3afe:ffff0000:0097:270f:1:0
+Extreme Sports
+p:UMKBW
+3aff:ffff0000:0097:270f:1:0
+Nautical Channel
+p:UMKBW
+0201:ffff0000:0004:0085:1:0
+Blue Movie
+p:SKY
+0403:ffff0000:0004:0085:1:0
+RTL Crime
+p:SKY
+0405:ffff0000:0004:0085:1:0
+RTL Passion
+p:SKY
+000c:ffff0000:0004:0085:1:0
+NatGeo Wild
+p:SKY
+000d:ffff0000:0004:0085:1:0
+National Geographic (S)
+p:SKY
+000e:ffff0000:0004:0085:1:0
+Discovery Channel (S)
+p:SKY
+000f:ffff0000:0004:0085:1:0
+.
+p:SKY
+0012:ffff0000:0004:0085:1:0
+Sky Select
+p:SKY
+0412:ffff0000:0004:0085:1:0
+13th Street
+p:SKY
+0017:ffff0000:0004:0085:1:0
+Sky Krimi
+p:SKY
+001b:ffff0000:0004:0085:1:0
+RTL Crime (S)
+p:SKY
+001d:ffff0000:0004:0085:1:0
+RTL Passion (S)
+p:SKY
+002a:ffff0000:0004:0085:1:0
+13th Street (S)
+p:SKY
+0034:ffff0000:0004:0085:1:0
+Spiegel Geschichte
+p:SKY
+00a8:ffff0000:0004:0085:1:0
+Motorvision TV
+p:SKY
+00df:ffff0000:0004:0085:1:0
+Sky Bundesliga 1
+p:SKY
+03f5:ffff0000:0004:0085:1:0
+National Geographic
+p:SKY
+03f6:ffff0000:0004:0085:1:0
+Discovery Channel
+p:SKY
+0daf:ffff0000:0004:0085:12:0
+CPT_TP81
+p:SKY
+0a82:ffff0000:0004:0085:178:0
+Videotextapplikation (d-box I)
+p:BetaResearch
+0a83:ffff0000:0004:0085:193:0
+NDS Applikation
+p:SKY
+0402:ffff0000:0001:0085:1:0
+Disney Junior
+p:SKY
+0404:ffff0000:0001:0085:1:0
+Disney XD
+p:SKY
+0206:ffff0000:0001:0085:1:0
+Goldstar TV
+p:SKY
+040c:ffff0000:0001:0085:1:0
+Syfy
+p:SKY
+0010:ffff0000:0001:0085:1:0
+Fox Serie (S)
+p:SKY
+0013:ffff0000:0001:0085:1:0
+Junior
+p:SKY
+0015:ffff0000:0001:0085:1:0
+Beate-Uhse.TV
+p:SKY
+0016:ffff0000:0001:0085:1:0
+Heimatkanal
+p:SKY
+0018:ffff0000:0001:0085:1:0
+Classica
+p:SKY
+001a:ffff0000:0001:0085:1:0
+Disney Junior (S)
+p:SKY
+041a:ffff0000:0001:0085:1:0
+TNT Serie
+p:SKY
+001c:ffff0000:0001:0085:1:0
+Disney XD (S)
+p:SKY
+001e:ffff0000:0001:0085:1:0
+Sky Sport Austria
+p:SKY
+0022:ffff0000:0001:0085:1:0
+Sky Atlantic
+p:SKY
+0024:ffff0000:0001:0085:1:0
+Syfy (S)
+p:SKY
+0032:ffff0000:0001:0085:1:0
+TNT Serie (S)
+p:SKY
+014e:ffff0000:0001:0085:1:0
+Sky Select Event B
+p:SKY
+03f8:ffff0000:0001:0085:1:0
+Fox Serie
+p:SKY
+0f03:ffff0000:0001:0085:12:0
+OSDL d-box II
+p:BetaDigital
+0dad:ffff0000:0001:0085:12:0
+CPT_TP83
+p:SKY
+0f92:ffff0000:0001:0085:100:0
+386 SID 0xf92
+p:
+0fac:ffff0000:0001:0085:100:0
+386 SID 0xfac
+p:
+0137:ffff0000:0001:0085:211:0
+Sky Select 7
+p:SKY
+0138:ffff0000:0001:0085:211:0
+Sky Bundesliga 7
+p:SKY
+0139:ffff0000:0001:0085:211:0
+Sky Sport 8
+p:SKY
+0141:ffff0000:0001:0085:211:0
+Sky Select 8
+p:SKY
+0142:ffff0000:0001:0085:211:0
+Sky Bundesliga 8
+p:SKY
+0143:ffff0000:0001:0085:211:0
+Sky Sport 9
+p:SKY
+014b:ffff0000:0001:0085:211:0
+Sky Select 9
+p:SKY
+014c:ffff0000:0001:0085:211:0
+Sky Bundesliga 9
+p:SKY
+014d:ffff0000:0001:0085:211:0
+Sky Sport 10
+p:SKY
+0203:ffff0000:0003:0085:1:0
+MGM
+p:SKY
+0204:ffff0000:0003:0085:1:0
+SKY Nostalgie
+p:SKY
+0011:ffff0000:0003:0085:1:0
+Sky Sport News
+p:SKY
+0019:ffff0000:0003:0085:1:0
+Disney Cinemagic
+p:SKY
+0029:ffff0000:0003:0085:1:0
+Sky Hits
+p:SKY
+00dd:ffff0000:0003:0085:1:0
+Sky Sport 1
+p:SKY
+00de:ffff0000:0003:0085:1:0
+Sky Sport 2
+p:SKY
+0dae:ffff0000:0003:0085:12:0
+CPT_TP65
+p:SKY
+00c8:ffff0000:0003:0085:198:0
+BDL VoD
+p:SKY
+010f:ffff0000:0003:0085:211:0
+Sky Select 3
+p:SKY
+0110:ffff0000:0003:0085:211:0
+Sky Bundesliga 3
+p:SKY
+0111:ffff0000:0003:0085:211:0
+Sky Sport 4
+p:SKY
+0119:ffff0000:0003:0085:211:0
+Sky Select 4
+p:SKY
+011a:ffff0000:0003:0085:211:0
+Sky Bundesliga 4
+p:SKY
+011b:ffff0000:0003:0085:211:0
+Sky Sport 5
+p:SKY
+0123:ffff0000:0003:0085:211:0
+Sky Select 5
+p:SKY
+0124:ffff0000:0003:0085:211:0
+Sky Bundesliga 5
+p:SKY
+0125:ffff0000:0003:0085:211:0
+Sky Sport 6
+p:SKY
+012d:ffff0000:0003:0085:211:0
+Sky Select 6
+p:SKY
+012e:ffff0000:0003:0085:211:0
+Sky Bundesliga 6
+p:SKY
+012f:ffff0000:0003:0085:211:0
+Sky Sport 7
+p:SKY
+00f1:ffff0000:0003:0085:211:0
+Sky Sport NEWS
+p:SKY
+3b04:ffff0000:008d:270f:1:0
+Lust Pur
+p:UMKBW
+3717:ffff0000:008d:270f:1:0
+CNBC
+p:UMKBW
+3718:ffff0000:008d:270f:1:0
+Spiegel TV Wissen
+p:UMKBW
+3719:ffff0000:008d:270f:1:0
+Boomerang
+p:UMKBW
+371c:ffff0000:008d:270f:1:0
+Sport 1 US
+p:UMKBW
+371d:ffff0000:008d:270f:1:0
+Motors TV
+p:UMKBW
+371e:ffff0000:008d:270f:1:0
+EUROSPORT 2
+p:UMKBW
+371f:ffff0000:008d:270f:1:0
+TNT Film
+p:UMKBW
+372b:ffff0000:008d:270f:1:0
+Romance TV
+p:UMKBW
+372c:ffff0000:008d:270f:1:0
+Travel Channel Deutschland 
+p:UMKBW
+3729:ffff0000:008d:270f:2:0
+BBC World Service (E)
+p:UMKBW
+372a:ffff0000:008d:270f:2:0
+BBC World Service (Arab.)
+p:UMKBW
+2b81:ffff0000:008d:270f:2:0
+Turk Muzigi
+p:UMKBW - Music Choice
+2b82:ffff0000:008d:270f:2:0
+Latin
+p:UMKBW - Music Choice
+2b83:ffff0000:008d:270f:2:0
+Volksmusik (ehem. Indian Classics)
+p:UMKBW - Music Choice
+2b84:ffff0000:008d:270f:2:0
+Cool Jazz 
+p:UMKBW - Music Choice
+2b85:ffff0000:008d:270f:2:0
+Jazz Classics
+p:UMKBW - Music Choice
+2b86:ffff0000:008d:270f:2:0
+Cocktail Lounge
+p:UMKBW - Music Choice
+2b87:ffff0000:008d:270f:2:0
+Easy Listening Charts
+p:UMKBW - Music Choice
+2b88:ffff0000:008d:270f:2:0
+Arabisch
+p:UMKBW - Music Choice
+2b89:ffff0000:008d:270f:2:0
+Revival - 60er & 70er
+p:UMKBW - Music Choice
+2b8a:ffff0000:008d:270f:2:0
+Total Hits Spanien
+p:UMKBW - Music Choice
+2b8b:ffff0000:008d:270f:2:0
+Rock 'n' Roll
+p:UMKBW - Music Choice
+2b8c:ffff0000:008d:270f:2:0
+Total Hits Polen
+p:UMKBW - Music Choice
+2b8d:ffff0000:008d:270f:2:0
+80er
+p:UMKBW - Music Choice
+2b8e:ffff0000:008d:270f:2:0
+90er
+p:UMKBW - Music Choice
+2b8f:ffff0000:008d:270f:2:0
+Chansons
+p:UMKBW - Music Choice
+2b90:ffff0000:008d:270f:2:0
+Classic Rock
+p:UMKBW - Music Choice
+6605:ffff0000:0105:270f:1:0
+Mediaset
+p:UMKBW
+6606:ffff0000:0105:270f:1:0
+glitz*
+p:UMKBW
+6608:ffff0000:0105:270f:1:0
+pearl.tv
+p:UMKBW
+759f:ffff0000:0105:270f:1:0
+MAD TV
+p:UMKBW
+71ad:ffff0000:0105:270f:1:0
+Record Internacional Europa
+p:UMKBW
+71b1:ffff0000:0105:270f:1:0
+KAZAKH TV
+p:UMKBW
+65fa:ffff0000:0105:270f:1:0
+Balkanika Music Television
+p:UMKBW
+65fb:ffff0000:0105:270f:1:0
+HRT TV 1
+p:UMKBW
+65fc:ffff0000:0105:270f:1:0
+Pink Plus
+p:UMKBW
+65fd:ffff0000:0105:270f:1:0
+Pink Extra
+p:UMKBW
+65fe:ffff0000:0105:270f:1:0
+Hayat TV
+p:UMKBW
+65ff:ffff0000:0105:270f:1:0
+Pink Music
+p:UMKBW
+6601:ffff0000:0105:270f:2:0
+HRT HR1
+p:UMKBW
+6602:ffff0000:0105:270f:2:0
+Pink Radio
+p:UMKBW
+6603:ffff0000:0105:270f:2:0
+Kral FM Avrupa
+p:UMKBW
+6607:ffff0000:00c9:270f:1:0
+media shop
+p:UMKBW
+622d:ffff0000:00c9:270f:1:0
+Radio Televizija Crne Gore
+p:UMKBW
+ac55:ffff0000:00c9:270f:1:0
+CMC
+p:UMKBW
+4e85:ffff0000:00c9:270f:1:0
+SonLife
+p:UMKBW
+4e86:ffff0000:00c9:270f:1:0
+CCTV9
+p:UMKBW
+69df:ffff0000:00c9:270f:1:0
+TLC
+p:UMKBW
+5e33:ffff0000:00c9:270f:2:0
+RADIO BOB!
+p:UMKBW
+ac64:ffff0000:00c9:270f:2:0
+NL-Radio 1
+p:UMKBW
+ac65:ffff0000:00c9:270f:2:0
+NL-Radio 5
+p:UMKBW
+0008:ffff0000:0002:0085:1:0
+Sky Comedy
+p:SKY
+0009:ffff0000:0002:0085:1:0
+Sky Action
+p:SKY
+000a:ffff0000:0002:0085:1:0
+Sky Cinema
+p:SKY
+000b:ffff0000:0002:0085:1:0
+Sky Cinema +1
+p:SKY
+0014:ffff0000:0002:0085:1:0
+Sky Emotion
+p:SKY
+002b:ffff0000:0002:0085:1:0
+Sky Cinema +24
+p:SKY
+0f22:ffff0000:0002:0085:12:0
+Humax PR-HD2000C
+p:SKY
+0f8c:ffff0000:0002:0085:12:0
+Humax PR-HD3000C
+p:betaresearch
+0f9a:ffff0000:0002:0085:12:0
+Pace TDC 866 NSDX
+p:SKY
+0dab:ffff0000:0002:0085:12:0
+STB channel config.
+p:betaresearch
+0dac:ffff0000:0002:0085:12:0
+CPT_TP69
+p:SKY
+0f07:ffff0000:0002:0085:100:0
+370 SID 0xf07
+p:
+0105:ffff0000:0002:0085:211:0
+Sky Select 2
+p:SKY
+0106:ffff0000:0002:0085:211:0
+Sky Bundesliga 2
+p:SKY
+0107:ffff0000:0002:0085:211:0
+Sky Sport 3
+p:SKY
+0159:ffff0000:0002:0085:211:0
+Blue Movie 1
+p:SKY
+0163:ffff0000:0002:0085:211:0
+Blue Movie 2
+p:SKY
+016d:ffff0000:0002:0085:211:0
+Blue Movie 3
+p:SKY
+00fb:ffff0000:0002:0085:211:0
+Sky Select 1
+p:SKY
+00fc:ffff0000:0002:0085:211:0
+Sky Bundesliga 10
+p:SKY
+00fd:ffff0000:0002:0085:211:0
+Sky Sport 11
+p:SKY
+00fe:ffff0000:0002:0085:211:0
+Sky Select Event A
+p:SKY
+620d:ffff0000:015f:270f:1:0
+Unitymedia Infokanal
+p:UMKBW
+891d:ffff0000:015f:270f:1:0
+WDR Essen
+p:ARD
+891e:ffff0000:015f:270f:1:0
+WDR Dortmund
+p:ARD
+5e2b:ffff0000:015f:270f:1:0
+Lokalprogramm
+p:UMKBW
+5e2f:ffff0000:015f:270f:1:0
+NRW.TV
+p:UMKBW
+4e91:ffff0000:015f:270f:1:0
+nrwision
+p:UMKBW
+75a1:ffff0000:015f:270f:1:0
+Unitymedia Schnupperkanal
+p:UMKBW
+8966:ffff0000:015f:270f:213:0
+WDR Dortmund
+p:ARD
+8969:ffff0000:015f:270f:213:0
+WDR Essen
+p:ARD
+8972:ffff0000:015f:270f:213:0
+Lokalprogramm
+p:UMKBW
+620e:ffff0000:00b5:270f:1:0
+TV5MONDE Europe
+p:UMKBW
+6213:ffff0000:00b5:270f:1:0
+Power Türk TV
+p:UMKBW
+5e25:ffff0000:00b5:270f:1:0
+Viva
+p:UMKBW
+5e29:ffff0000:00b5:270f:1:0
+Channel21
+p:UMKBW
+5e2a:ffff0000:00b5:270f:1:0
+1-2-3.tv
+p:UMKBW
+5e2c:ffff0000:00b5:270f:1:0
+DMAX
+p:UMKBW
+5e2d:ffff0000:00b5:270f:1:0
+CNN
+p:UMKBW
+5e30:ffff0000:00b5:270f:1:0
+sonnenklar.TV
+p:UMKBW
+75a2:ffff0000:00b5:270f:1:0
+RTL NITRO
+p:UMKBW
+71b6:ffff0000:00b5:270f:1:0
+Sat.1 Gold
+p:UMKBW
+46c0:ffff0000:00b5:270f:2:0
+ERF (Evangeliums-Rundfunk)
+p:UMKBW
+46c1:ffff0000:00b5:270f:2:0
+Radio Horeb
+p:UMKBW
+46c2:ffff0000:00b5:270f:2:0
+Radio Sunshine Live
+p:UMKBW
+620f:ffff0000:00f1:270f:1:0
+CLASSICA
+p:UMKBW
+6212:ffff0000:00f1:270f:1:0
+MTV Brand New
+p:UMKBW
+6214:ffff0000:00f1:270f:1:0
+SAMANYOLU TV
+p:UMKBW
+6215:ffff0000:00f1:270f:1:0
+TVP Info
+p:UMKBW
+5e2e:ffff0000:00f1:270f:1:0
+Bloomberg
+p:UMKBW
+3330:ffff0000:00f1:270f:1:0
+PLANET
+p:UMKBW
+3334:ffff0000:00f1:270f:1:0
+Silverline Movie Channel
+p:UMKBW
+2f50:ffff0000:00f1:270f:1:0
+MTV
+p:UMKBW
+2b67:ffff0000:00f1:270f:1:0
+Joiz
+p:UMKBW
+6dce:ffff0000:00f1:270f:1:0
+Ginx TV
+p:UMKBW
+5e31:ffff0000:00f1:270f:2:0
+JAM FM
+p:UMKBW
+5e32:ffff0000:00f1:270f:2:0
+Radio Paloma
+p:UMKBW
+5e35:ffff0000:00f1:270f:2:0
+RadyoTürk
+p:UMKBW
+5e36:ffff0000:00f1:270f:2:0
+TopStar FM
+p:UMKBW
+6210:ffff0000:0083:270f:1:0
+Biography Channel
+p:UMKBW
+6211:ffff0000:0083:270f:1:0
+ANIMAX
+p:UMKBW
+6217:ffff0000:0083:270f:1:0
+sportdigital
+p:UMKBW
+332e:ffff0000:0083:270f:1:0
+HISTORY
+p:UMKBW
+3333:ffff0000:0083:270f:1:0
+Kinowelt TV
+p:UMKBW
+3335:ffff0000:0083:270f:1:0
+AXN Action
+p:UMKBW
+3337:ffff0000:0083:270f:1:0
+Gute Laune TV
+p:UMKBW
+3338:ffff0000:0083:270f:1:0
+Kabel Eins Classic
+p:UMKBW
+3339:ffff0000:0083:270f:1:0
+Sat.1 emotions
+p:UMKBW
+3341:ffff0000:0083:270f:2:0
+Rock Hymnen 
+p:UMKKBW - Music Choice 
+3342:ffff0000:0083:270f:2:0
+Headbangers
+p:UMKKBW - Music Choice 
+3343:ffff0000:0083:270f:2:0
+The Alternative
+p:UMKKBW - Music Choice 
+3344:ffff0000:0083:270f:2:0
+Dancefloor Fillers 
+p:UMKKBW - Music Choice 
+3345:ffff0000:0083:270f:2:0
+Bass Breaks & Beats 
+p:UMKKBW - Music Choice 
+3346:ffff0000:0083:270f:2:0
+Chillout 
+p:UMKKBW - Music Choice
+3347:ffff0000:0083:270f:2:0
+Sommer Hits
+p:UMKKBW - Music Choice
+3348:ffff0000:0083:270f:2:0
+Freedom 
+p:UMKKBW - Music Choice
+3349:ffff0000:0083:270f:2:0
+Kuschelsongs
+p:UMKKBW - Music Choice
+334a:ffff0000:0083:270f:2:0
+Groove (Disco & Funk)
+p:UMKKBW - Music Choice
+334b:ffff0000:0083:270f:2:0
+Blues 
+p:UMKKBW - Music Choice
+334c:ffff0000:0083:270f:2:0
+R'n'B & Soul Classic 
+p:UMKKBW - Music Choice
+334d:ffff0000:0083:270f:2:0
+Hip Hop 
+p:UMKKBW - Music Choice
+334e:ffff0000:0083:270f:2:0
+Reggae 
+p:UMKKBW - Music Choice
+334f:ffff0000:0083:270f:2:0
+Independent Classics 
+p:UMKKBW - Music Choice
+3350:ffff0000:0083:270f:2:0
+Showcase
+p:UMKKBW - Music Choice
+4011:ffff0000:0083:270f:100:0
+346 SID 0x4011
+p:
+4012:ffff0000:0083:270f:100:0
+346 SID 0x4012
+p:
+4013:ffff0000:0083:270f:100:0
+346 SID 0x4013
+p:
+4014:ffff0000:0083:270f:100:0
+346 SID 0x4014
+p:
+4015:ffff0000:0083:270f:100:0
+346 SID 0x4015
+p:
+4016:ffff0000:0083:270f:100:0
+346 SID 0x4016
+p:
+4017:ffff0000:0083:270f:100:0
+346 SID 0x4017
+p:
+4018:ffff0000:0083:270f:100:0
+346 SID 0x4018
+p:
+3367:ffff0000:0083:270f:100:0
+346 SID 0x3367
+p:
+3369:ffff0000:0083:270f:100:0
+346 SID 0x3369
+p:
+3377:ffff0000:0083:270f:100:0
+346 SID 0x3377
+p:
+3378:ffff0000:0083:270f:100:0
+346 SID 0x3378
+p:
+4bc9:ffff0000:0083:270f:100:0
+346 SID 0x4bc9
+p:
+4bca:ffff0000:0083:270f:100:0
+346 SID 0x4bca
+p:
+4bcb:ffff0000:0083:270f:100:0
+346 SID 0x4bcb
+p:
+4bcc:ffff0000:0083:270f:100:0
+346 SID 0x4bcc
+p:
+4bcd:ffff0000:0083:270f:100:0
+346 SID 0x4bcd
+p:
+4bce:ffff0000:0083:270f:100:0
+346 SID 0x4bce
+p:
+4bcf:ffff0000:0083:270f:100:0
+346 SID 0x4bcf
+p:
+6216:ffff0000:017d:0000:1:0
+746 SID 0x6216
+p:
+5e27:ffff0000:00ab:270f:1:0
+QVC
+p:UMKBW
+5e28:ffff0000:00ab:270f:1:0
+HSE24
+p:UMKBW
+ac47:ffff0000:00ab:270f:1:0
+QVC Beauty
+p:UMKBW
+4e8b:ffff0000:00ab:270f:1:0
+iM1
+p:UMKBW
+4e8c:ffff0000:00ab:270f:1:0
+Juwelo
+p:UMKBW
+75a0:ffff0000:00ab:270f:1:0
+HSE24 EXTRA
+p:UMKBW
+75a3:ffff0000:00ab:270f:1:0
+ProSieben FUN
+p:UMKBW
+42d8:ffff0000:00ab:270f:1:0
+Servus TV
+p:UMKBW
+42dc:ffff0000:00ab:270f:1:0
+HSE24 TREND
+p:UMKBW
+42dd:ffff0000:00ab:270f:1:0
+QVC Plus
+p:UMKBW
+69de:ffff0000:00ab:270f:1:0
+DELUXE MUSIC
+p:UMKBW
+6e2d:ffff0000:0431:a401:1:0
+rbb Brandenburg
+p:ARD
+6e2e:ffff0000:0431:a401:1:0
+rbb Berlin
+p:ARD
+6e40:ffff0000:0431:a401:1:0
+NDR FS MV
+p:ARD
+6e41:ffff0000:0431:a401:1:0
+NDR FS HH
+p:ARD
+6e42:ffff0000:0431:a401:1:0
+NDR FS NDS
+p:ARD
+6e43:ffff0000:0431:a401:1:0
+NDR FS SH
+p:ARD
+6e44:ffff0000:0431:a401:1:0
+MDR Sachsen
+p:ARD
+6e45:ffff0000:0431:a401:1:0
+MDR S-Anhalt
+p:ARD
+6e46:ffff0000:0431:a401:1:0
+MDR Thüringen
+p:ARD
+6e47:ffff0000:0431:a401:1:0
+SWR Fernsehen RP
+p:ARD
+6f0c:ffff0000:0431:a401:2:0
+MDR1 SACHSEN
+p:ARD MDR
+6f0d:ffff0000:0431:a401:2:0
+MDR S-ANHALT
+p:ARD MDR
+6f0e:ffff0000:0431:a401:2:0
+MDR THÜRINGEN
+p:ARD MDR
+6f0f:ffff0000:0431:a401:2:0
+MDR FIGARO
+p:ARD MDR
+6f10:ffff0000:0431:a401:2:0
+MDR JUMP
+p:ARD MDR
+6f11:ffff0000:0431:a401:2:0
+MDR SPUTNIK
+p:ARD MDR
+6f12:ffff0000:0431:a401:2:0
+MDR INFO
+p:ARD MDR
+6f13:ffff0000:0431:a401:2:0
+MDR KLASSIK
+p:ARD MDR
+6f15:ffff0000:0431:a401:2:0
+NDR 2
+p:ARD NDR
+6f16:ffff0000:0431:a401:2:0
+NDR Kultur
+p:ARD NDR
+6f17:ffff0000:0431:a401:2:0
+NDR Info
+p:ARD NDR
+6f18:ffff0000:0431:a401:2:0
+N-JOY
+p:ARD NDR
+6f19:ffff0000:0431:a401:2:0
+NDR 90,3
+p:ARD NDR
+6f1a:ffff0000:0431:a401:2:0
+NDR1WelleNord
+p:ARD NDR
+6f1b:ffff0000:0431:a401:2:0
+NDR 1 Radio MV
+p:ARD NDR
+6f1c:ffff0000:0431:a401:2:0
+NDR 1 Nieders.
+p:ARD NDR
+6f1d:ffff0000:0431:a401:2:0
+NDR Info Spez.
+p:ARD NDR
+6f1e:ffff0000:0431:a401:2:0
+NDR Blue
+p:ARD NDR
+6f20:ffff0000:0431:a401:2:0
+Bremen Eins
+p:ARD RB
+6f21:ffff0000:0431:a401:2:0
+Nordwestradio
+p:ARD RB
+6f22:ffff0000:0431:a401:2:0
+Bremen Vier
+p:ARD RB
+6f24:ffff0000:0431:a401:2:0
+Inforadio
+p:ARD rbb
+6f25:ffff0000:0431:a401:2:0
+Kulturradio
+p:ARD rbb
+6f26:ffff0000:0431:a401:2:0
+Antenne Brandenburg
+p:ARD rbb
+6f27:ffff0000:0431:a401:2:0
+radioBERLIN 88,8
+p:ARD rbb
+6f28:ffff0000:0431:a401:2:0
+radioeins
+p:ARD rbb
+6f29:ffff0000:0431:a401:2:0
+Fritz
+p:ARD rbb
+6f31:ffff0000:0431:a401:2:0
+SWR1 BW
+p:ARD SWR
+6f32:ffff0000:0431:a401:2:0
+SWR1 RP
+p:ARD SWR
+6f33:ffff0000:0431:a401:2:0
+SWR2
+p:ARD SWR
+6f34:ffff0000:0431:a401:2:0
+SWR3
+p:ARD SWR
+6f35:ffff0000:0431:a401:2:0
+SWR4 BW
+p:ARD SWR
+6f36:ffff0000:0431:a401:2:0
+SWR4 RP
+p:ARD SWR
+6f37:ffff0000:0431:a401:2:0
+DASDING
+p:ARD SWR
+6f38:ffff0000:0431:a401:2:0
+SWRinfo
+p:ARD SWR
+7031:ffff0000:041b:a401:1:0
+tagesschau24
+p:ARD
+7032:ffff0000:041b:a401:1:0
+Einsfestival
+p:ARD
+7033:ffff0000:041b:a401:1:0
+EinsPlus
+p:ARD
+7034:ffff0000:041b:a401:1:0
+arte
+p:ARD
+7035:ffff0000:041b:a401:1:0
+PHOENIX
+p:ARD
+6f47:ffff0000:041b:a401:1:0
+BR-alpha
+p:ARD
+2b5c:ffff0000:041b:a401:25:0
+Das Erste HD
+p:ARD
+5a3d:ffff0000:00e7:270f:1:0
+ATV Avrupa
+p:UMKBW
+5a3e:ffff0000:00e7:270f:1:0
+24Horas
+p:UMKBW
+5a3f:ffff0000:00e7:270f:1:0
+ERT WORLD
+p:UMKBW
+5a40:ffff0000:00e7:270f:1:0
+EURO STAR
+p:UMKBW
+5a41:ffff0000:00e7:270f:1:0
+Euro D
+p:UMKBW
+5a42:ffff0000:00e7:270f:1:0
+Nashe Kino
+p:UMKBW
+5a43:ffff0000:00e7:270f:1:0
+RTPi
+p:UMKBW
+5a44:ffff0000:00e7:270f:1:0
+RTR Planeta 
+p:UMKBW
+5a45:ffff0000:00e7:270f:1:0
+RTVi
+p:UMKBW
+5a46:ffff0000:00e7:270f:1:0
+TV Polonia
+p:UMKBW
+5a47:ffff0000:00e7:270f:1:0
+TVE Internacional
+p:UMKBW
+5a4a:ffff0000:00e7:270f:2:0
+Radyo Metropol
+p:UMKBW
+2f45:ffff0000:00a1:270f:1:0
+RTL Television
+p:UMKBW
+2f46:ffff0000:00a1:270f:1:0
+SAT.1
+p:UMKBW
+2f47:ffff0000:00a1:270f:1:0
+ProSieben
+p:UMKBW
+2f48:ffff0000:00a1:270f:1:0
+VOX
+p:UMKBW
+2f49:ffff0000:00a1:270f:1:0
+RTL2
+p:UMKBW
+2f4a:ffff0000:00a1:270f:1:0
+kabel eins
+p:UMKBW
+2f4b:ffff0000:00a1:270f:1:0
+Super RTL
+p:UMKBW
+2f4d:ffff0000:00a1:270f:1:0
+n-tv
+p:UMKBW
+2f51:ffff0000:00a1:270f:1:0
+ProSieben Maxx
+p:UMKBW
+4e94:ffff0000:00a1:270f:1:0
+SIXX
+p:UMKBW
+ac49:ffff0000:010f:270f:1:0
+RCK TV
+p:UMKBW
+2b61:ffff0000:010f:270f:1:0
+BBC World News
+p:UMKBW
+4e8f:ffff0000:010f:270f:1:0
+France 24 (in English)
+p:UMKBW
+4e90:ffff0000:010f:270f:1:0
+Al Jazeera International
+p:UMKBW
+4e93:ffff0000:010f:270f:1:0
+Russia Today
+p:UMKBW
+7595:ffff0000:010f:270f:1:0
+Al Jazeera
+p:UMKBW
+7596:ffff0000:010f:270f:1:0
+MBC Europe
+p:UMKBW
+4e97:ffff0000:010f:270f:1:0
+CCTV News
+p:UMKBW
+759d:ffff0000:010f:270f:1:0
+TV Silesia
+p:UMKBW
+759e:ffff0000:010f:270f:1:0
+Antenna 1 Europe
+p:UMKBW
+4aaa:ffff0000:010f:270f:1:0
+Deutsches Wetter Fernsehen
+p:UMKBW
+69dd:ffff0000:010f:270f:1:0
+DIE NEUE ZEIT TV
+p:UMKBW
+69e7:ffff0000:010f:270f:25:0
+Disney HD
+p:UMKBW
+2f4c:ffff0000:00bf:270f:1:0
+SPORT1
+p:UMKBW
+2f4e:ffff0000:00bf:270f:1:0
+N24
+p:UMKBW
+2f4f:ffff0000:00bf:270f:1:0
+Tele 5
+p:UMKBW
+2b5e:ffff0000:00bf:270f:1:0
+Disney SD
+p:UMKBW
+2b60:ffff0000:00bf:270f:1:0
+Nick/Comedy Central
+p:UMKBW
+2b63:ffff0000:00bf:270f:1:0
+EUROSPORT
+p:UMKBW
+2b65:ffff0000:00bf:270f:1:0
+RTL Living
+p:UMKBW
+4aab:ffff0000:00bf:270f:1:0
+auto motor und sport channel
+p:UMKBW
+4aac:ffff0000:00bf:270f:1:0
+Animal Planet
+p:UMKBW
+2b71:ffff0000:00bf:270f:2:0
+Klassik 
+p:UMKBW - Music Choice 
+2b72:ffff0000:00bf:270f:2:0
+Klassik Sinfonie 
+p:UMKBW - Music Choice
+2b73:ffff0000:00bf:270f:2:0
+2000er
+p:UMKBW - Music Choice
+2b74:ffff0000:00bf:270f:2:0
+Hot Country
+p:UMKBW - Music Choice
+2b75:ffff0000:00bf:270f:2:0
+Kinder
+p:UMKBW - Music Choice
+2b76:ffff0000:00bf:270f:2:0
+Coffee & Dinner
+p:UMKBW - Music Choice
+2b77:ffff0000:00bf:270f:2:0
+New Age
+p:UMKBW - Music Choice
+2b78:ffff0000:00bf:270f:2:0
+Rewind - 80er & 90er
+p:UMKBW - Music Choice
+2b79:ffff0000:00bf:270f:2:0
+Total Hits Frankreich
+p:UMKBW - Music Choice
+2b7a:ffff0000:00bf:270f:2:0
+Total Hits Russland
+p:UMKBW - Music Choice
+2b7b:ffff0000:00bf:270f:2:0
+Urban
+p:UMKBW - Music Choice
+2b7c:ffff0000:00bf:270f:2:0
+Schlager
+p:UMKBW - Music Choice
+2b7d:ffff0000:00bf:270f:2:0
+Total Hits Deutschland
+p:UMKBW - Music Choice
+2b7e:ffff0000:00bf:270f:2:0
+Total Hits Italien
+p:UMKBW - Music Choice
+2b7f:ffff0000:00bf:270f:2:0
+Total Hits UK
+p:UMKBW - Music Choice
+2b80:ffff0000:00bf:270f:2:0
+Bollywood Hits
+p:UMKBW - Music Choice
+3351:ffff0000:00fb:270f:1:0
+Videothek
+p:UMKBW
+3352:ffff0000:00fb:270f:1:0
+Mehr Programm
+p:UMKBW
+6222:ffff0000:00fb:270f:100:0
+610 SID 0x6222
+p:
+6223:ffff0000:00fb:270f:100:0
+610 SID 0x6223
+p:
+6224:ffff0000:00fb:270f:100:0
+610 SID 0x6224
+p:
+6225:ffff0000:00fb:270f:100:0
+610 SID 0x6225
+p:
+6221:ffff0000:00fb:270f:193:0
+HZN iStreamer
+p:Unitymedia
+5656:ffff0000:00dd:270f:1:0
+Detskij Mir/TeleKlub
+p:UMKBW
+5657:ffff0000:00dd:270f:1:0
+itvn
+p:UMKBW
+5658:ffff0000:00dd:270f:1:0
+Kanal 7
+p:UMKBW
+565a:ffff0000:00dd:270f:1:0
+Rai Uno
+p:UMKBW
+565b:ffff0000:00dd:270f:1:0
+Rai Due
+p:UMKBW
+565c:ffff0000:00dd:270f:1:0
+Rai Tre
+p:UMKBW
+565d:ffff0000:00dd:270f:1:0
+SHOW TURK
+p:UMKBW
+565f:ffff0000:00dd:270f:1:0
+TGRT EU
+p:UMKBW
+5660:ffff0000:00dd:270f:1:0
+Channel One Russia 
+p:UMKBW
+5661:ffff0000:00dd:270f:1:0
+euronews (ESP)
+p:UMKBW
+5662:ffff0000:00dd:270f:1:0
+euronews (F)
+p:UMKBW
+5663:ffff0000:00dd:270f:1:0
+euronews (E)
+p:UMKBW
+5664:ffff0000:00dd:270f:1:0
+euronews (I)
+p:UMKBW
+5665:ffff0000:00dd:270f:1:0
+euronews (POR)
+p:UMKBW
+5666:ffff0000:00dd:270f:1:0
+euronews (RUS)
+p:UMKBW
+5667:ffff0000:00dd:270f:1:0
+euronews (D)
+p:UMKBW
+566b:ffff0000:00dd:270f:1:0
+euronews (Arab.)
+p:UMKBW
+566c:ffff0000:00dd:270f:1:0
+euronews (Turk)
+p:UMKBW
+566d:ffff0000:00dd:270f:1:0
+euronews (Farsi)
+p:UMKBW
+5669:ffff0000:00dd:270f:2:0
+RAI Radio 1
+p:UMKBW
+6d66:ffff0000:0437:0066:1:0
+ZDF
+p:ZDFvision
+6d67:ffff0000:0437:0066:1:0
+3sat
+p:ZDFvision
+6d68:ffff0000:0437:0066:1:0
+KiKA
+p:ZDFvision
+6d6b:ffff0000:0437:0066:1:0
+ZDFinfo
+p:ZDFvision
+6d6e:ffff0000:0437:0066:1:0
+zdf_neo
+p:ZDFvision
+6d70:ffff0000:0437:0066:1:0
+zdf.kultur
+p:ZDFvision
+6d6c:ffff0000:0437:0066:2:0
+DKULTUR
+p:ZDFvision
+6d6d:ffff0000:0437:0066:2:0
+DLF
+p:ZDFvision
+6d71:ffff0000:0437:0066:2:0
+DRadio Wissen
+p:ZDFvision
+2b66:ffff0000:0437:0066:25:0
+ZDF HD
+p:ZDFvision
+b46c:ffff0000:01cd:270f:1:0
+810 SID 0xb46c
+p:
+526d:ffff0000:00d3:270f:1:0
+yourfamily
+p:UMKBW
+526e:ffff0000:00d3:270f:1:0
+NatGeo People
+p:UMKBW
+526f:ffff0000:00d3:270f:1:0
+Nicktoons
+p:UMKBW
+5271:ffff0000:00d3:270f:1:0
+BabyTV
+p:UMKBW
+5272:ffff0000:00d3:270f:1:0
+Nick Jr.
+p:UMKBW
+71af:ffff0000:00d3:270f:1:0
+Habertürk
+p:UMKBW
+71b3:ffff0000:00d3:270f:1:0
+NTV Avrupa
+p:UMKBW
+71b4:ffff0000:00d3:270f:1:0
+Astro TV
+p:UMKBW
+6dc8:ffff0000:00d3:270f:1:0
+France 24 (en Francais)
+p:UMKBW
+6dc9:ffff0000:00d3:270f:1:0
+France 2
+p:UMKBW
+6dca:ffff0000:00d3:270f:1:0
+France 3
+p:UMKBW
+6dcb:ffff0000:00d3:270f:1:0
+France 5
+p:UMKBW
+4aa2:ffff0000:006f:270f:1:0
+Kino 06
+p:Unitymedia - KINO AUF ABRUF
+4aa3:ffff0000:006f:270f:1:0
+Kino 05
+p:Unitymedia - KINO AUF ABRUF
+4aa4:ffff0000:006f:270f:1:0
+Kino 04
+p:Unitymedia - KINO AUF ABRUF
+4aa5:ffff0000:006f:270f:1:0
+Kino 03
+p:Unitymedia - KINO AUF ABRUF
+4aa6:ffff0000:006f:270f:1:0
+Kino 02
+p:Unitymedia - KINO AUF ABRUF
+4aa7:ffff0000:006f:270f:1:0
+Kino 01
+p:Unitymedia - KINO AUF ABRUF
+3ee9:ffff0000:006f:270f:1:0
+Kino 08
+p:Unitymedia - KINO AUF ABRUF
+3eea:ffff0000:006f:270f:1:0
+Kino 07
+p:Unitymedia - KINO AUF ABRUF
+71ae:ffff0000:01d7:270f:1:0
+Türkshow TV
+p:UMKBW
+71b2:ffff0000:01d7:270f:1:0
+Souvenirs from earth
+p:UMKBW
+69e4:ffff0000:01d7:270f:1:0
+GOD TV
+p:UMKBW
+65f6:ffff0000:01d7:270f:1:0
+JSTV
+p:UMKBW
+6604:ffff0000:01d7:270f:2:0
+Alem FM
+p:UMKBW
+5e34:ffff0000:01d7:270f:2:0
+Radio ZET
+p:UMKBW
+65f7:ffff0000:01d7:270f:2:0
+Radio Japan
+p:UMKBW
+6dca:ffff0000:044d:a401:1:0
+Das Erste
+p:ARD,c:000065,c:010066,c:020068,c:030065
+6dcb:ffff0000:044d:a401:1:0
+Bayerisches FS Süd
+p:ARD
+6dcc:ffff0000:044d:a401:1:0
+hr-fernsehen
+p:ARD
+6dce:ffff0000:044d:a401:1:0
+Bayerisches FS Nord
+p:ARD
+6dcf:ffff0000:044d:a401:1:0
+WDR Köln
+p:ARD
+6dd1:ffff0000:044d:a401:1:0
+SWR Fernsehen BW
+p:ARD
+6f03:ffff0000:044d:a401:2:0
+hr1
+p:ARD HR
+6f04:ffff0000:044d:a401:2:0
+hr2
+p:ARD HR
+6f05:ffff0000:044d:a401:2:0
+hr3
+p:ARD HR
+6f06:ffff0000:044d:a401:2:0
+hr4
+p:ARD HR
+6f07:ffff0000:044d:a401:2:0
+YOU FM
+p:ARD HR
+6f08:ffff0000:044d:a401:2:0
+hr-iNFO
+p:ARD HR
+6f2d:ffff0000:044d:a401:2:0
+SR 1 Europawelle
+p:ARD SR
+6f2e:ffff0000:044d:a401:2:0
+SR 2 KulturRadio
+p:ARD SR
+6f2f:ffff0000:044d:a401:2:0
+SR 3 Saarlandwelle
+p:ARD SR
+6f3b:ffff0000:044d:a401:2:0
+1LIVE
+p:ARD WDR
+6f3c:ffff0000:044d:a401:2:0
+WDR 2
+p:ARD WDR
+6f3d:ffff0000:044d:a401:2:0
+WDR 3
+p:ARD WDR
+6f3e:ffff0000:044d:a401:2:0
+WDR 4
+p:ARD WDR
+6f3f:ffff0000:044d:a401:2:0
+WDR 5
+p:ARD WDR
+6f40:ffff0000:044d:a401:2:0
+WDR Funkhaus Europa
+p:ARD WDR
+6f41:ffff0000:044d:a401:2:0
+1LIVE diggi
+p:ARD WDR
+6f42:ffff0000:044d:a401:2:0
+KIRAKA
+p:ARD WDR
+6f43:ffff0000:044d:a401:2:0
+WDR Event
+p:ARD WDR
+6ef0:ffff0000:044d:a401:2:0
+Bayern 1
+p:ARD BR
+6ef1:ffff0000:044d:a401:2:0
+Bayern 2
+p:ARD BR
+6ef2:ffff0000:044d:a401:2:0
+BAYERN 3
+p:ARD BR
+6ef3:ffff0000:044d:a401:2:0
+BR-KLASSIK
+p:ARD BR
+6ef4:ffff0000:044d:a401:2:0
+B5 aktuell
+p:ARD BR
+6ef5:ffff0000:044d:a401:2:0
+BAYERN plus
+p:ARD BR
+6ef6:ffff0000:044d:a401:2:0
+PULS
+p:ARD BR
+6ef8:ffff0000:044d:a401:2:0
+B5 plus
+p:ARD BR
+010b:ffff0000:0006:0085:25:0
+Sky Bundesliga HD 2
+p:SKY
+010c:ffff0000:0006:0085:25:0
+Sky Sport HD 3
+p:SKY
+0463:ffff0000:0006:0085:25:0
+TNT Serie HD
+p:SKY
+0464:ffff0000:0006:0085:25:0
+Fox HD
+p:SKY
+046a:ffff0000:0006:0085:25:0
+Discovery HD
+p:SKY
+007b:ffff0000:0006:0085:25:0
+TNT Serie HD (S)
+p:SKY
+007c:ffff0000:0006:0085:25:0
+Fox HD (S)
+p:SKY
+0081:ffff0000:0006:0085:25:0
+Sky Sport HD 1
+p:SKY
+0082:ffff0000:0006:0085:25:0
+Discovery HD (S)
+p:SKY
+0083:ffff0000:0006:0085:25:0
+Sky Cinema HD
+p:SKY
+0115:ffff0000:000d:0085:25:0
+Sky Bundesliga HD 3
+p:SKY
+0116:ffff0000:000d:0085:25:0
+Sky Sport HD 4
+p:SKY
+0458:ffff0000:000d:0085:25:0
+NatGeo HD
+p:SKY
+006e:ffff0000:000d:0085:25:0
+Sky Atlantic HD
+p:SKY
+006f:ffff0000:000d:0085:25:0
+Disney Cinemagic HD
+p:SKY
+0070:ffff0000:000d:0085:25:0
+NatGeo HD (S)
+p:SKY
+0072:ffff0000:000d:0085:25:0
+Sky Sport HD 2
+p:SKY
+0074:ffff0000:000d:0085:25:0
+Sky Action HD
+p:SKY
+b415:ffff0000:0187:270f:25:0
+RTL Living HD
+p:UMKBW
+b416:ffff0000:0187:270f:25:0
+Passion HD
+p:UMKBW
+94d5:ffff0000:0187:270f:25:0
+ProSieben FUN HD
+p:UMKBW
+94d7:ffff0000:0187:270f:25:0
+RTL Crime HD
+p:UMKBW
+b417:ffff0000:01c3:270f:25:0
+Deluxe Music HD
+p:UMKBW
+b418:ffff0000:01c3:270f:25:0
+QVC Plus HD
+p:UMKBW
+b02d:ffff0000:01c3:270f:25:0
+VIVA HD
+p:UMKBW
+7980:ffff0000:01c3:270f:25:0
+DMAX HD
+p:UMKBW
+6219:ffff0000:019b:270f:25:0
+13TH STREET HD
+p:UMKBW
+5274:ffff0000:019b:270f:25:0
+TNT Film HD
+p:UMKBW
+4e96:ffff0000:019b:270f:25:0
+Sport1 HD
+p:UMKBW
+69ea:ffff0000:019b:270f:25:0
+SyFy HD
+p:UMKBW
+621a:ffff0000:01b9:270f:25:0
+Auto Motor und Sport TV HD
+p:UMKBW
+621b:ffff0000:01b9:270f:25:0
+Spiegel TV Wissen HD 
+p:UMKBW
+ac4a:ffff0000:01b9:270f:25:0
+Nick/Comedy HD
+p:UMKBW
+6dcf:ffff0000:01b9:270f:25:0
+Bon Gusto HD
+p:UMKBW
+011f:ffff0000:000c:0085:25:0
+Sky Bundesliga HD 4
+p:SKY
+0120:ffff0000:000c:0085:25:0
+Sky Sport HD 5
+p:SKY
+0069:ffff0000:000c:0085:25:0
+Sky Bundesliga HD 1
+p:SKY
+006b:ffff0000:000c:0085:25:0
+Sky Hits HD
+p:SKY
+006c:ffff0000:000c:0085:25:0
+Sky Sport News HD
+p:SKY
+0076:ffff0000:000c:0085:25:0
+Nat Geo Wild HD
+p:SKY
+0084:ffff0000:000c:0085:25:0
+Eurosport HD
+p:SKY
+00f2:ffff0000:000c:0085:211:0
+Sky Sport News HD
+p:SKY
+ac45:ffff0000:0191:270f:25:0
+QVC HD
+p:UMKBW
+ac46:ffff0000:0191:270f:25:0
+HSE24 HD
+p:UMKBW
+ac4b:ffff0000:0191:270f:25:0
+HSE24Extra HD
+p:UMKBW
+71b5:ffff0000:0191:270f:25:0
+ServusTV HD
+p:UMKBW
+ac48:ffff0000:01af:270f:25:0
+PLANET HD
+p:UMKBW
+797f:ffff0000:01af:270f:25:0
+Romance TV HD
+p:UMKBW
+94d6:ffff0000:01af:270f:25:0
+glitz* HD
+p:UMKBW
+94d8:ffff0000:01af:270f:25:0
+Lust Pur HD
+p:UMKBW
+814d:ffff0000:014b:270f:25:0
+RTL HD
+p:UMKBW
+814e:ffff0000:014b:270f:25:0
+RTL2 HD
+p:UMKBW
+814f:ffff0000:014b:270f:25:0
+VOX HD
+p:UMKBW
+8150:ffff0000:014b:270f:25:0
+Super RTL HD
+p:UMKBW
+8151:ffff0000:014b:270f:25:0
+RTL NITRO HD
+p:UMKBW
+7d65:ffff0000:0141:270f:25:0
+Sat.1 HD
+p:UMKBW
+7d66:ffff0000:0141:270f:25:0
+ProSieben HD
+p:UMKBW
+7d67:ffff0000:0141:270f:25:0
+kabel eins HD
+p:UMKBW
+7d68:ffff0000:0141:270f:25:0
+sixx HD
+p:UMKBW
+7d69:ffff0000:0141:270f:25:0
+ProSieben MAXX HD
+p:UMKBW
+759c:ffff0000:01a5:270f:25:0
+CLASSICA HD
+p:UMKBW
+75a4:ffff0000:01a5:270f:25:0
+Kinowelt TV HD
+p:UMKBW
+6dd0:ffff0000:01a5:270f:25:0
+MTV Live HD
+p:UMKBW
+42da:ffff0000:01a5:270f:25:0
+Sport1+ HD
+p:UMKBW
+42d9:ffff0000:0079:270f:25:0
+arte HD
+p:ARD,c:000201,c:010202,c:020206,c:030201,c:050001
+end
+Editor:DreamSet 2.38 - http://www.dreamset-editor.com

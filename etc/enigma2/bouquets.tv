@@ -1,0 +1,14 @@
+#NAME Bouquets (TV)
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.favourites.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.hd_sender.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky_welt_extra_mit_unitymedia.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky_buli.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky_sport.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sky_select.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.kidz.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.news_doku.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.music.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.erotic.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.shopping.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.kino_auf_abruf.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.unitymedia_rest.tv
